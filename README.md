@@ -1,6 +1,8 @@
 # Hello there! I am Kayle Verhiel <img src="./icons/waving-hand.png" alt="Waving Hand" width="25" height="25" />
 
-<p style="text-align: center; font-size: 24px; color: #F75C7E; "> 2+ Years of industry application development experience. </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-2%2B_Years-F75C7E?style=for-the-badge"/>
+</p>
 
 I am Kayle Verhiel, a Full Stack Developer with a strong academic foundation in Computer Science. I completed my Bachelor's degree in Computer Science at Utrecht University, followed by a Master's degree in Software Engineering at the University of Amsterdam.
 
@@ -63,7 +65,7 @@ genetic vulnerability as a modifier. BMC psychiatry, 24(1), 736. https://doi.org
 
 # Connect With Me <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"></picture>
 
-Feel free to reach out to me at [kayleverhiel1999@gmail.com](mailto:kayleverhiel1999@gmail.com) or on any of my socials.
+Feel free to reach out to me at any of my socials.
 
 <div align="left">
   <a href="https://www.linkedin.com/in/kayleverhiel/">
