@@ -60,8 +60,7 @@ Drukker, M., Todor, T., Bongaarts, J., Broggi, E., Kelkar, M., Wigglesworth, T.,
 Leeuwen, K., Koster, M., Derom, C., Thiery, E., De Hert, M., Menne-Lothmann, C., Decoster,
 J., Collip, D., van Winkel, R., Jacobs, N., Guloksuz, S., Rutten, B., & van Os, J. (2024). The
 association between aberrant salience and psychotic experiences in general population twins, and
-genetic vulnerability as a modifier. BMC psychiatry, 24(1), 736. https://doi.org/10.1186/s12888-
-024-06176-2
+genetic vulnerability as a modifier. BMC psychiatry, 24(1), 736. https://doi.org/10.1186/s12888-024-06176-2
 
 # Connect With Me <picture><source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.webp" type="image/webp"><img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" alt="🚀" width="32" height="32"></picture>
 
