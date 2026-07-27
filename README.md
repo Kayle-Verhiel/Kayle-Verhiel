@@ -4,9 +4,9 @@
   <img src="https://img.shields.io/badge/Experience-2%2B_Years-F75C7E?style=for-the-badge"/>
 </p>
 
-I am Kayle Verhiel, a Full Stack Developer with a strong academic foundation in Computer Science. I completed my Bachelor's degree in Computer Science at Utrecht University, followed by a Master's degree in Software Engineering at the University of Amsterdam.
+I am Kayle Verhiel, a Full Stack Developer with an academic foundation in Computer Science. I completed my Bachelor's degree in Computer Science at Utrecht University, followed by a Master's degree in Software Engineering at the University of Amsterdam.
 
-I enjoy building end-to-end solutions, working across the entire stack. From designing intuitive front-end interfaces to architecting robust back-end systems. My main focus lies in building cloud native applications in AWS to deliver reliable and efficient software.
+I enjoy building end-to-end solutions, working across the entire stack. From designing intuitive front-end interfaces to architecting back-end systems. My main focus lies in building cloud native applications in AWS to deliver reliable and efficient software.
 
 # Company Experiences
 
